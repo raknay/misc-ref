@@ -1,6 +1,6 @@
 ### Contents
 * [Branch Operations](#revert-changes-to-a-specific-commit)
-* [Logging Operations](#ogging)
+* [Logging Operations](#logging)
 * [Stashing Changes Temporarily](#stashing-changes-temporarily)
 * [Submodules](#submodules)
 * [Reverting Changes](#reverting-changes)
